@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nikita Bhawar.
 - 👀 I’m interested in learning opportunities.
-- 🌱 I’m currently learning Data science 
+- 🌱 I’m currently learning Machine Learning 
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me 14nikita4@gmail.com
 
